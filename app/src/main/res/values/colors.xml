@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorPrimaryLight">#B2DFDB</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="primaryText">#212121</color>
+    <color name="secondaryPrimary">#757575</color>
+    <color name="dividerColor">#BDBDBD</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="backgroundColor">#213140</color>
+    <color name="secondColor">#3C4050</color>
+
+    <color name="chart_color1">#ffea88</color>
+    <color name="chart_color2">#ff8153</color>
+    <color name="chart_color3">#878bb6</color>
+    <color name="chart_color4">#4acab4</color>
+
+    <array name="chart_color">
+        <item>@color/chart_color1</item>
+        <item>@color/chart_color2</item>
+        <item>@color/chart_color3</item>
+        <item>@color/chart_color4</item>
+    </array>
+</resources>
